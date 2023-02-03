@@ -13,4 +13,5 @@ git remote add origin git@github.com:USER_NAME/GIT_PROJECT.git
 git branch -M main
 git push -u origin main
 ```
+
     1. You can check your work to ensure that everything was uploaded properly to Github
