@@ -14,4 +14,4 @@ git branch -M main
 git push -u origin main
 ```
 
-    1. You can check your work to ensure that everything was uploaded properly to Github
+7. You can check your work to ensure that everything was uploaded properly to Github
